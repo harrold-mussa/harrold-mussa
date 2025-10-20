@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Professional Summary
 
-As a highly analytical now **Data Engineer and AI/ML Strategist** with **8+ years** of professional experience, I specialize in transforming complex data into clear, actionable business strategies. My technical expertise spans advanced data visualization, machine learning frameworks (**TensorFlow**, **PyTorch**), and full-cycle data analysis, enabling me to optimize business performance and drive profitability. My foundation is built on a blend of Data Science, Business acumen, and Customer Support & Success, ensuring technical solutions are always aligned with direct business impact.
+As a highly analytical now **Data Engineer and AI/ML Strategist** with **7+ years** of professional experience, I specialize in transforming complex data into clear, actionable business strategies. My technical expertise spans advanced data visualization, machine learning frameworks (**TensorFlow**, **PyTorch**), and full-cycle data analysis, enabling me to optimize business performance and drive profitability. My foundation is built on a blend of Data Science, Business acumen, and Customer Support & Success, ensuring technical solutions are always aligned with direct business impact.
 
 ---
 
