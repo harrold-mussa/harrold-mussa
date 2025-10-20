@@ -19,7 +19,8 @@ As a highly analytical now **Data Engineer and AI/ML Strategist** with **8+ year
 
 | Category | Skills & Tools | 
 | :--- | :--- | 
-| **AI/Machine Learning** | **TensorFlow, PyTorch**, AI/ML Strategy, Data Engineer Associate Certification, Data Engineer Certification |
+| **AI/Machine Learning** | **TensorFlow, PyTorch**, AI/ML Strategy |
+| **Data Engineering** | Snowflake & Snowflake SQL, AWS,  Data Engineer Associate Certification | 
 | **Data Analysis & BI** | KPI Reporting, Data Processing and Analysis, Business Intelligence (BI) |
 | **Visualization** | **D3.js**, Data Visualization Certification |
 | **Programming (Inferred)**| Python, JavaScript, SQL | 
