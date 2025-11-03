@@ -112,11 +112,5 @@ As a highly analytical now **Data Engineer and AI/ML Strategist** with **7+ year
 
 ## Certifications 
 
-**Professional Certification, Associate Data Engineer**
-* DataCamp | October 2025
-
-**Professional Certification, Full-Stack Developer**
-* FreeCodeCamp | January 2025
-
 <img align="left" width="200" height="230" src="https://github.com/harrold-mussa/harrold-mussa/blob/main/DE%20Associate%20-%20badge.png">
 
