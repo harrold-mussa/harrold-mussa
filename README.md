@@ -68,38 +68,6 @@ As a highly analytical now **Data Engineer and AI/ML Strategist** with **7+ year
 
 ---
 
-## 💼 Experience
-
-### **Co-Founder & CEO & Data Engineer**
-**RelateAl** | Paris, France | September 2025 – Present
-
-* Leading strategic vision, product roadmap, and overall technical development for an early-stage AI/ML venture.
-* Responsible for establishing core data infrastructure and machine learning capabilities.
-
-### **Data Analyst & Data Engineer**
-**Upwork** | Paris, France | January 2025 – September 2025 (9 months)
-
-* Designed and implemented data-driven solutions and comprehensive Business Intelligence reports to optimize key business performance indicators.
-* Managed the full BI pipeline, translating raw data analysis into actionable insights for executive stakeholders.
-
-### **Customer Support Operations Specialist**
-**Atolls** | Paris, France | June 2022 – May 2025 (3 years 8 months)
-
-* Drove service quality enhancements by conducting deep analysis of customer-related data to streamline support operations.
-* **(Pre-Data Analyst role):** Served as **Customer Support Coordinator** (Oct 2021 – Jun 2022), tracking and reporting on KPIs.
-
-### **Junior Data Analyst**
-**Manitoba Hydro** | Winnipeg, Canada | September 2020 – March 2021 (7 months)
-
-* Gained foundational, hands-on experience in structured data analysis, processing, and reporting to support utility operations.
-
-### **Data Entry Specialist**
-**Commercial Credit Adjusters** | Winnipeg, Canada | May 2018 - August 2020 (2 years 4 months)
-
-* Ensured 100% data accuracy and integrity by meticulously processing high volumes of financial and client information into proprietary systems.
-
----
-
 ## 🎓 Education
 
 **Bachelor of Science (BS), Computer Software Engineering**
