@@ -79,7 +79,7 @@ As a highly analytical now **Data Engineer and AI/ML Strategist** with **7+ year
 --- 
 
 ## Certifications 
-
+<img align="left" width="200" height="240" src="https://github.com/harrold-mussa/harrold-mussa/blob/main/DE%20-%20badge.png"> 
 <img align="left" width="200" height="240" src="https://github.com/harrold-mussa/harrold-mussa/blob/main/DE%20Associate%20-%20badge.png">
 <img align="left" width="200" height="240" src="https://github.com/harrold-mussa/harrold-mussa/blob/main/SQL%20Associate%20-%20badge.png"> 
 
