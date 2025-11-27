@@ -15,7 +15,7 @@ As a highly analytical now **Data Engineer and AI/ML Strategist** with **7+ year
 
 ---
 
-## ⚙️ Languages
+## ⚙️ Tech Stack
 
 **Languages & Frameworks:**
 
