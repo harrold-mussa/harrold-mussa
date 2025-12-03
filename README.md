@@ -41,17 +41,17 @@ As a highly analytical now **Data Engineer and AI/ML Strategist** with **7+ year
 
 **Cloud & Big Data:**
 
-![AWS](https://img.shields.io/badge/AWS-017CEE?style=for-the-badge&logo=aws&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-FF694B?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2496ED?style=for-the-badge&logo=aws&logoColor=white)
 <!-- ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) -->
 
 **DevOps & Tools:**
 
-<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white)
-<!-- ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) -->
 
 <!-- **Business Intelligence:**
 
