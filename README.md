@@ -37,6 +37,7 @@ As a highly analytical now **Data Engineer and AI/ML Strategist** with **7+ year
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-29B5E8?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFFF00?style=for-the-badge&logo=duckdb&logoColor=181717)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
 **Cloud & Big Data:**
