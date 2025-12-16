@@ -44,6 +44,7 @@ As a highly analytical now **Data Engineer and AI/ML Strategist** with **7+ year
 **Cloud & Big Data:**
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-FF694B?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FF694B?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 <!-- ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) -->
 
