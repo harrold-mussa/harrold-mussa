@@ -1,6 +1,6 @@
 # Harrold Mussa
 
-## Data Engineer & AI/ML Strategist | CEO & Co-Founder at RelateAl
+## Data Engineer & AI Enthuasist 
 
 > **Contact:** harroldalmussa@gmail.com
 > **LinkedIn:** [harroldalmussa](https://www.linkedin.com/in/harroldalmussa)
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Professional Summary
 
-As a highly analytical now **Data Engineer and AI/ML Strategist** with **7+ years** of professional experience, I specialize in transforming complex data into clear, actionable business strategies. My technical expertise spans advanced data visualization, and full-cycle data analysis, enabling me to optimize business performance and drive profitability. My foundation is built on a blend of Data Science, Business acumen, and Customer Support & Success, ensuring technical solutions are always aligned with direct business impact.
+As a now **Data Engineer** with **7+ years** of professional working experience, I specialize in transforming complex data into clear, actionable business strategies. My technical expertise includes data visualization and analysis, enabling me to optimize business performance and drive profitability. My foundation is built on a blend of Data Science, Business acumen, and Customer Support & Success, ensuring technical solutions are always aligned with direct business impact.
 
 ---
 
