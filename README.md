@@ -1,6 +1,6 @@
 # Harrold Mussa
 
-## Data Engineer & AI Enthuasist 
+## Data Analyst & Data Engineer
 
 > **Contact:** harroldalmussa@gmail.com
 > **LinkedIn:** [harroldalmussa](https://www.linkedin.com/in/harroldalmussa)
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Professional Summary
 
-As a now **Data Engineer** with **7+ years** of professional working experience, I specialize in transforming complex data into clear, actionable business strategies. My technical expertise includes data visualization and analysis, enabling me to optimize business performance and drive profitability. My foundation is built on a blend of Data Science, Business acumen, and Customer Support & Success, ensuring technical solutions are always aligned with direct business impact.
+As a **Data Analyst** with **7+ years** of professional working experience, I specialize in transforming complex data into clear, actionable business strategies. My technical expertise includes data visualization and analysis, enabling me to optimize business performance and drive profitability. My foundation is built on a blend of Data Science, Business acumen, and Customer Support & Success, ensuring technical solutions are always aligned with direct business impact.
 
 ---
 
@@ -56,9 +56,9 @@ As a now **Data Engineer** with **7+ years** of professional working experience,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<!-- **Business Intelligence:**
+**Business Intelligence:**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) -->
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ---
 
