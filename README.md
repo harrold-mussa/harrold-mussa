@@ -9,12 +9,6 @@
 
 ---
 
-## 👨‍💻 Professional Summary
-
-As a **Data Analyst** with **7+ years** of professional working experience, I specialize in transforming complex data into clear, actionable business strategies. My technical expertise includes data visualization and analysis, enabling me to optimize business performance and drive profitability. My foundation is built on a blend of Data Science, Business acumen, and Customer Support & Success, ensuring technical solutions are always aligned with direct business impact.
-
----
-
 ## ⚙️ Tech Stack
 
 **Languages & Frameworks:**
