@@ -1,6 +1,6 @@
 # Harrold Mussa
 
-## Data Analyst & Data Engineer
+## Data Engineer
 
 > **Contact:** harroldalmussa@gmail.com
 > **LinkedIn:** [harroldalmussa](https://www.linkedin.com/in/harroldalmussa)
